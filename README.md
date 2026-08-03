@@ -59,14 +59,14 @@ python xai/lime_explain.py
 
 ## Model Training
 
-# Train ResNet-50 for binary classification
+-Train ResNet-50 for binary classification
 python models/train.py --model resnet50 --task binary
 
-# Train DenseNet-121 for three-class classification
+-Train DenseNet-121 for three-class classification
 python models/train.py --model densenet121 --task threeclass## Model Architecture
 
 ## Current Status
-🔧 In Progress — Milestone 2: Preprocessing scripts and initial folder structure 
+-In Progress — Milestone 2: Preprocessing scripts and initial folder structure 
 completed. Model training and XAI evaluation pipeline in development.
 
 ## Evaluation Metrics
