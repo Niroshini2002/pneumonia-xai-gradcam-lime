@@ -1,0 +1,12 @@
+# Secrets
+kaggle.json
+
+# Large files
+*.pth
+*.npy
+*.npz
+*.zip
+
+# Dataset
+data/raw/
+data/processed/
